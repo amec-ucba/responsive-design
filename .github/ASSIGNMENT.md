@@ -73,7 +73,7 @@ Each video builds on the previous one, so please don't skip ahead.
 > CSS, and follow this repo for getting your files and submitting:
 >
 > - **Getting the starter files:** don't download `responsive start.zip`. Create your own
->   repo from this template and open it with GitHub Desktop, as described in the
+>   repo from this template and clone it in WebStorm, as described in the
 >   [Getting Started guide](GETTING_STARTED.md). The starter files are already in the repo's
 >   root folder, so there is no `responsive` folder to unzip.
 > - **Naming your file:** keep the page named **`index.html`**, whatever name the video
