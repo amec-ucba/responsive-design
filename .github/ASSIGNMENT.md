@@ -36,7 +36,7 @@ You won't change much HTML in this exercise. Almost all of your work happens in
    medium screens.
 5. **Complete Part 4** by following the *Phone Layout* video to rearrange the page for
    small screens.
-6. **Publish and submit** your page as described in the [README](README.md).
+6. **Publish and submit** your page as described in the [README](../README.md).
 
 ## 🧠 What You Will Learn
 
@@ -74,14 +74,14 @@ Each video builds on the previous one, so please don't skip ahead.
 >
 > - **Getting the starter files:** don't download `responsive start.zip`. Create your own
 >   repo from this template and open it with GitHub Desktop, as described in the
->   [README](README.md#-getting-started). The starter files are already in the repo's
+>   [Getting Started guide](GETTING_STARTED.md). The starter files are already in the repo's
 >   root folder, so there is no `responsive` folder to unzip.
 > - **Naming your file:** keep the page named **`index.html`**, whatever name the video
 >   uses. GitHub Pages only serves `index.html` at your site's root URL; any other name
 >   gives you a 404.
 > - **Submitting:** don't zip your folder or upload a file. Publish your page to GitHub
 >   Pages and submit a pull request URL in Canvas, as described in the
->   [README](README.md#-submitting-the-assignment).
+>   [Submitting guide](SUBMITTING.md).
 
 > [!IMPORTANT]
 > Open the entire repo **folder** in VS Code, not a single HTML file. Keep `index.html`,
@@ -173,4 +173,4 @@ If something is not working, check these common issues first:
 
 ---
 
-The AI policy and submission instructions are in the [README](README.md).
+The AI policy and submission instructions are in the [README](../README.md).
